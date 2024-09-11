@@ -99,4 +99,3 @@ Sprint 4:
 | João Góes | Dev Team | [GitHub](https://github.com/MagNumGomes) | [LinkedIn](www.linkedin.com/in/joão-vítor-góes-b82b63302) |
 | Pedro Prevides | Dev Team | [GitHub](https://github.com/GalaxyBurst) | [LinkedIn](https://www.linkedin.com/in/pedro-prevides-87a0b71a8/) |
 | Victor Bessa | Dev Team | [GitHub](https://github.com/victordanielrb) | [LinkedIn](https://www.linkedin.com/in/victor-daniel-ramos-bessa-1436a3215/) |
-| Vinicius Lima | Dev Team | [GitHub](https://github.com/ViniciusLimaCabraleSouza) | [LinkedIn](https://www.linkedin.com/in/vinicius-lima-cabral-e-souza-7794b3287/) |
