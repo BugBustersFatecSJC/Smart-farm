@@ -96,6 +96,6 @@ Sprint 4:
 | Davi Marinho | Dev Team | [GitHub](https://github.com/DMBMz) | [LinkedIn](https://www.linkedin.com/in/davi-miguel-a90821214/)|
 | Gabriel Guimaraes | Dev Team | [GitHub](https://github.com/gabrielbguimaraes) | [LinkedIn](https://www.linkedin.com/in/gabriel-g-854017138?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) |
 | João Felipe | Dev Team | [GitHub](https://github.com/jfiliprc) | [LinkedIn](https://www.linkedin.com/in/joão-felipe-rocha/) |
-| João Góes | Dev Team | [GitHub](https://github.com/MagNumGomes) | [LinkedIn](www.linkedin.com/in/joão-vítor-góes-b82b63302) |
+| João Góes | Dev Team | [GitHub](https://github.com/MagNumGomes) | [LinkedIn](https://www.linkedin.com/in/joaovitorgoes/) |
 | Pedro Prevides | Dev Team | [GitHub](https://github.com/GalaxyBurst) | [LinkedIn](https://www.linkedin.com/in/pedro-prevides-87a0b71a8/) |
 | Victor Bessa | Dev Team | [GitHub](https://github.com/victordanielrb) | [LinkedIn](https://www.linkedin.com/in/victor-daniel-ramos-bessa-1436a3215/) |
